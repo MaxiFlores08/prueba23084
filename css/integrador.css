@@ -1,0 +1,14 @@
+.textoChico {
+    font-size: .8rem;
+}
+
+.carousel-item img {
+    filter: brightness(50%);
+}
+
+.first-words {
+    font-size: 24px;
+  }
+  .btn {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
